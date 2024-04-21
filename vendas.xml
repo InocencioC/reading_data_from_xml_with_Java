@@ -1,0 +1,2697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vendas>
+	<venda id="1">
+		<cliente>Isaac Freitas</cliente>
+		<data>2024-04-19T06:48:54.531808</data>
+		<itens>
+			<item>
+				<produto>Fone de Ouvido Bose QuietComfort 35 II</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>1500.00</valor_unitario>
+				<desconto>390.00</desconto>
+			</item>
+			<item>
+				<produto>Tablet iPad Pro</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>4000.00</valor_unitario>
+				<desconto>2720.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="2">
+		<cliente>João Vitor Caldeira</cliente>
+		<data>2024-04-15T18:56:06.579175</data>
+		<itens>
+			<item>
+				<produto>Câmera Canon EOS R5</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>12000.00</valor_unitario>
+				<desconto>8880.00</desconto>
+			</item>
+			<item>
+				<produto>Smartwatch Apple Watch Series 8</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>1800.00</valor_unitario>
+				<desconto>630.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="3">
+		<cliente>João Souza</cliente>
+		<data>2024-03-24T19:38:58.344689</data>
+		<itens>
+			<item>
+				<produto>Console Xbox Series X</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>2500.00</valor_unitario>
+				<desconto>1000.00</desconto>
+			</item>
+			<item>
+				<produto>Drone DJI Mavic 3</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>9000.00</valor_unitario>
+				<desconto>3150.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="4">
+		<cliente>Pedro Henrique Fernandes</cliente>
+		<data>2024-03-27T19:46:43.378197</data>
+		<itens>
+			<item>
+				<produto>Notebook Dell XPS 13</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>5000.00</valor_unitario>
+				<desconto>1800.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="5">
+		<cliente>Ana Júlia Novaes</cliente>
+		<data>2024-04-18T05:52:55.693696</data>
+		<itens>
+			<item>
+				<produto>Tablet iPad Pro</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>4000.00</valor_unitario>
+				<desconto>1360.00</desconto>
+			</item>
+			<item>
+				<produto>Console Xbox Series X</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>2500.00</valor_unitario>
+				<desconto>600.00</desconto>
+			</item>
+			<item>
+				<produto>Echo Dot (4ª Geração)</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>250.00</valor_unitario>
+				<desconto>195.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="6">
+		<cliente>Yago Moreira</cliente>
+		<data>2024-04-01T04:16:12.253866</data>
+		<itens>
+			<item>
+				<produto>Smartwatch Apple Watch Series 8</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>1800.00</valor_unitario>
+				<desconto>576.00</desconto>
+			</item>
+			<item>
+				<produto>Fone de Ouvido Bose QuietComfort 35 II</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>1500.00</valor_unitario>
+				<desconto>1050.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="7">
+		<cliente>Gabriela das Neves</cliente>
+		<data>2024-04-14T18:50:30.776376</data>
+		<itens>
+			<item>
+				<produto>Fone de Ouvido Bose QuietComfort 35 II</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>1500.00</valor_unitario>
+				<desconto>1620.00</desconto>
+			</item>
+			<item>
+				<produto>Smartphone Samsung Galaxy S23</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>3500.00</valor_unitario>
+				<desconto>1575.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="8">
+		<cliente>Marcos Vinicius da Conceição</cliente>
+		<data>2024-04-04T02:59:30.493093</data>
+		<itens>
+			<item>
+				<produto>Smartwatch Apple Watch Series 8</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>1800.00</valor_unitario>
+				<desconto>2736.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="9">
+		<cliente>Pedro Moraes</cliente>
+		<data>2024-04-18T21:07:55.057796</data>
+		<itens>
+			<item>
+				<produto>Drone DJI Mavic 3</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>9000.00</valor_unitario>
+				<desconto>18000.00</desconto>
+			</item>
+			<item>
+				<produto>Echo Dot (4ª Geração)</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>250.00</valor_unitario>
+				<desconto>35.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="10">
+		<cliente>Sophia Fernandes</cliente>
+		<data>2024-03-31T21:14:24.218124</data>
+		<itens>
+			<item>
+				<produto>Echo Dot (4ª Geração)</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>250.00</valor_unitario>
+				<desconto>187.50</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="11">
+		<cliente>Sophie Alves</cliente>
+		<data>2024-03-23T04:52:19.988537</data>
+		<itens>
+			<item>
+				<produto>Console Xbox Series X</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>2500.00</valor_unitario>
+				<desconto>1750.00</desconto>
+			</item>
+			<item>
+				<produto>Smartphone Samsung Galaxy S23</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>3500.00</valor_unitario>
+				<desconto>2380.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="12">
+		<cliente>Lavínia Rodrigues</cliente>
+		<data>2024-04-16T07:16:32.248927</data>
+		<itens>
+			<item>
+				<produto>Console Xbox Series X</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>2500.00</valor_unitario>
+				<desconto>1800.00</desconto>
+			</item>
+			<item>
+				<produto>Smartphone Samsung Galaxy S23</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>3500.00</valor_unitario>
+				<desconto>3780.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="13">
+		<cliente>Esther da Conceição</cliente>
+		<data>2024-04-11T17:37:44.385456</data>
+		<itens>
+			<item>
+				<produto>Echo Dot (4ª Geração)</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>250.00</valor_unitario>
+				<desconto>77.50</desconto>
+			</item>
+			<item>
+				<produto>Drone DJI Mavic 3</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>9000.00</valor_unitario>
+				<desconto>9720.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="14">
+		<cliente>Bryan da Rosa</cliente>
+		<data>2024-04-11T06:02:09.151034</data>
+		<itens>
+			<item>
+				<produto>Câmera Canon EOS R5</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>12000.00</valor_unitario>
+				<desconto>8280.00</desconto>
+			</item>
+			<item>
+				<produto>Drone DJI Mavic 3</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>9000.00</valor_unitario>
+				<desconto>7200.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="15">
+		<cliente>Luiz Otávio Nogueira</cliente>
+		<data>2024-03-28T15:38:39.222474</data>
+		<itens>
+			<item>
+				<produto>Televisão LG OLED 8K</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>8000.00</valor_unitario>
+				<desconto>8640.00</desconto>
+			</item>
+			<item>
+				<produto>Console Xbox Series X</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>2500.00</valor_unitario>
+				<desconto>1500.00</desconto>
+			</item>
+			<item>
+				<produto>Tablet iPad Pro</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>4000.00</valor_unitario>
+				<desconto>2800.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="16">
+		<cliente>Kevin Santos</cliente>
+		<data>2024-04-07T19:08:19.070309</data>
+		<itens>
+			<item>
+				<produto>Smartwatch Apple Watch Series 8</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>1800.00</valor_unitario>
+				<desconto>2592.00</desconto>
+			</item>
+			<item>
+				<produto>Televisão LG OLED 8K</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>8000.00</valor_unitario>
+				<desconto>10880.00</desconto>
+			</item>
+			<item>
+				<produto>Tablet iPad Pro</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>4000.00</valor_unitario>
+				<desconto>800.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="17">
+		<cliente>João Gabriel Araújo</cliente>
+		<data>2024-04-08T02:07:45.714578</data>
+		<itens>
+			<item>
+				<produto>Echo Dot (4ª Geração)</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>250.00</valor_unitario>
+				<desconto>47.50</desconto>
+			</item>
+			<item>
+				<produto>Câmera Canon EOS R5</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>12000.00</valor_unitario>
+				<desconto>16320.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="18">
+		<cliente>Heitor Teixeira</cliente>
+		<data>2024-03-23T21:02:26.084060</data>
+		<itens>
+			<item>
+				<produto>Fone de Ouvido Bose QuietComfort 35 II</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>1500.00</valor_unitario>
+				<desconto>2250.00</desconto>
+			</item>
+			<item>
+				<produto>Drone DJI Mavic 3</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>9000.00</valor_unitario>
+				<desconto>14040.00</desconto>
+			</item>
+			<item>
+				<produto>Echo Dot (4ª Geração)</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>250.00</valor_unitario>
+				<desconto>150.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="19">
+		<cliente>Ana Clara Mendes</cliente>
+		<data>2024-04-17T15:12:59.545660</data>
+		<itens>
+			<item>
+				<produto>Câmera Canon EOS R5</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>12000.00</valor_unitario>
+				<desconto>10800.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="20">
+		<cliente>Lucas Freitas</cliente>
+		<data>2024-03-23T04:23:51.173777</data>
+		<itens>
+			<item>
+				<produto>Smartwatch Apple Watch Series 8</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>1800.00</valor_unitario>
+				<desconto>1404.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="21">
+		<cliente>Lívia da Mata</cliente>
+		<data>2024-04-07T11:54:28.362922</data>
+		<itens>
+			<item>
+				<produto>Drone DJI Mavic 3</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>9000.00</valor_unitario>
+				<desconto>17100.00</desconto>
+			</item>
+			<item>
+				<produto>Smartphone Samsung Galaxy S23</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>3500.00</valor_unitario>
+				<desconto>980.00</desconto>
+			</item>
+			<item>
+				<produto>Console Xbox Series X</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>2500.00</valor_unitario>
+				<desconto>300.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="22">
+		<cliente>Vitor Gabriel da Mata</cliente>
+		<data>2024-04-08T07:14:34.927970</data>
+		<itens>
+			<item>
+				<produto>Notebook Dell XPS 13</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>5000.00</valor_unitario>
+				<desconto>2400.00</desconto>
+			</item>
+			<item>
+				<produto>Console Xbox Series X</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>2500.00</valor_unitario>
+				<desconto>4500.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="23">
+		<cliente>Agatha Teixeira</cliente>
+		<data>2024-04-18T13:59:32.687195</data>
+		<itens>
+			<item>
+				<produto>Notebook Dell XPS 13</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>5000.00</valor_unitario>
+				<desconto>300.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="24">
+		<cliente>João Pedro da Rocha</cliente>
+		<data>2024-04-06T01:12:39.465697</data>
+		<itens>
+			<item>
+				<produto>Echo Dot (4ª Geração)</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>250.00</valor_unitario>
+				<desconto>70.00</desconto>
+			</item>
+			<item>
+				<produto>Câmera Canon EOS R5</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>12000.00</valor_unitario>
+				<desconto>6120.00</desconto>
+			</item>
+			<item>
+				<produto>Notebook Dell XPS 13</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>5000.00</valor_unitario>
+				<desconto>5700.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="25">
+		<cliente>Luiz Miguel da Cunha</cliente>
+		<data>2024-03-25T06:42:02.943513</data>
+		<itens>
+			<item>
+				<produto>Smartphone Samsung Galaxy S23</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>3500.00</valor_unitario>
+				<desconto>3465.00</desconto>
+			</item>
+			<item>
+				<produto>Echo Dot (4ª Geração)</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>250.00</valor_unitario>
+				<desconto>150.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="26">
+		<cliente>Ana Laura Jesus</cliente>
+		<data>2024-04-05T23:12:15.235518</data>
+		<itens>
+			<item>
+				<produto>Fone de Ouvido Bose QuietComfort 35 II</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>1500.00</valor_unitario>
+				<desconto>1800.00</desconto>
+			</item>
+			<item>
+				<produto>Smartwatch Apple Watch Series 8</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>1800.00</valor_unitario>
+				<desconto>3510.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="27">
+		<cliente>Maria Alice Silveira</cliente>
+		<data>2024-03-23T09:24:28.599055</data>
+		<itens>
+			<item>
+				<produto>Console Xbox Series X</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>2500.00</valor_unitario>
+				<desconto>1275.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="28">
+		<cliente>Isadora Porto</cliente>
+		<data>2024-04-01T03:35:26.928244</data>
+		<itens>
+			<item>
+				<produto>Smartwatch Apple Watch Series 8</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>1800.00</valor_unitario>
+				<desconto>702.00</desconto>
+			</item>
+			<item>
+				<produto>Câmera Canon EOS R5</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>12000.00</valor_unitario>
+				<desconto>1920.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="29">
+		<cliente>Nicole Correia</cliente>
+		<data>2024-04-16T20:11:44.467332</data>
+		<itens>
+			<item>
+				<produto>Smartwatch Apple Watch Series 8</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>1800.00</valor_unitario>
+				<desconto>828.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="30">
+		<cliente>Bryan Barbosa</cliente>
+		<data>2024-04-04T08:54:54.807915</data>
+		<itens>
+			<item>
+				<produto>Echo Dot (4ª Geração)</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>250.00</valor_unitario>
+				<desconto>37.50</desconto>
+			</item>
+			<item>
+				<produto>Drone DJI Mavic 3</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>9000.00</valor_unitario>
+				<desconto>2880.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="31">
+		<cliente>Mariane da Rosa</cliente>
+		<data>2024-04-06T13:37:46.415303</data>
+		<itens>
+			<item>
+				<produto>Tablet iPad Pro</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>4000.00</valor_unitario>
+				<desconto>720.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="32">
+		<cliente>Enzo Gabriel Azevedo</cliente>
+		<data>2024-04-10T23:54:01.945643</data>
+		<itens>
+			<item>
+				<produto>Fone de Ouvido Bose QuietComfort 35 II</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>1500.00</valor_unitario>
+				<desconto>360.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="33">
+		<cliente>Davi Lucca Alves</cliente>
+		<data>2024-03-30T21:58:45.235597</data>
+		<itens>
+			<item>
+				<produto>Echo Dot (4ª Geração)</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>250.00</valor_unitario>
+				<desconto>210.00</desconto>
+			</item>
+			<item>
+				<produto>Televisão LG OLED 8K</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>8000.00</valor_unitario>
+				<desconto>3200.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="34">
+		<cliente>Lucas da Mota</cliente>
+		<data>2024-04-04T03:38:36.678171</data>
+		<itens>
+			<item>
+				<produto>Câmera Canon EOS R5</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>12000.00</valor_unitario>
+				<desconto>13680.00</desconto>
+			</item>
+			<item>
+				<produto>Fone de Ouvido Bose QuietComfort 35 II</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>1500.00</valor_unitario>
+				<desconto>1440.00</desconto>
+			</item>
+			<item>
+				<produto>Tablet iPad Pro</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>4000.00</valor_unitario>
+				<desconto>3200.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="35">
+		<cliente>Manuela Araújo</cliente>
+		<data>2024-04-09T20:43:30.131362</data>
+		<itens>
+			<item>
+				<produto>Câmera Canon EOS R5</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>12000.00</valor_unitario>
+				<desconto>2760.00</desconto>
+			</item>
+			<item>
+				<produto>Tablet iPad Pro</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>4000.00</valor_unitario>
+				<desconto>3120.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="36">
+		<cliente>Helena Correia</cliente>
+		<data>2024-03-28T11:38:18.242962</data>
+		<itens>
+			<item>
+				<produto>Tablet iPad Pro</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>4000.00</valor_unitario>
+				<desconto>2240.00</desconto>
+			</item>
+			<item>
+				<produto>Echo Dot (4ª Geração)</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>250.00</valor_unitario>
+				<desconto>27.50</desconto>
+			</item>
+			<item>
+				<produto>Televisão LG OLED 8K</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>8000.00</valor_unitario>
+				<desconto>11520.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="37">
+		<cliente>Laura Silva</cliente>
+		<data>2024-03-21T17:35:26.881085</data>
+		<itens>
+			<item>
+				<produto>Televisão LG OLED 8K</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>8000.00</valor_unitario>
+				<desconto>2560.00</desconto>
+			</item>
+			<item>
+				<produto>Smartwatch Apple Watch Series 8</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>1800.00</valor_unitario>
+				<desconto>594.00</desconto>
+			</item>
+			<item>
+				<produto>Drone DJI Mavic 3</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>9000.00</valor_unitario>
+				<desconto>2160.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="38">
+		<cliente>Olivia Freitas</cliente>
+		<data>2024-03-26T17:49:13.903521</data>
+		<itens>
+			<item>
+				<produto>Echo Dot (4ª Geração)</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>250.00</valor_unitario>
+				<desconto>250.00</desconto>
+			</item>
+			<item>
+				<produto>Notebook Dell XPS 13</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>5000.00</valor_unitario>
+				<desconto>7000.00</desconto>
+			</item>
+			<item>
+				<produto>Drone DJI Mavic 3</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>9000.00</valor_unitario>
+				<desconto>4140.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="39">
+		<cliente>Clarice Rocha</cliente>
+		<data>2024-03-28T23:41:18.563996</data>
+		<itens>
+			<item>
+				<produto>Televisão LG OLED 8K</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>8000.00</valor_unitario>
+				<desconto>6000.00</desconto>
+			</item>
+			<item>
+				<produto>Echo Dot (4ª Geração)</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>250.00</valor_unitario>
+				<desconto>120.00</desconto>
+			</item>
+			<item>
+				<produto>Câmera Canon EOS R5</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>12000.00</valor_unitario>
+				<desconto>2880.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="40">
+		<cliente>Isis Costa</cliente>
+		<data>2024-03-30T07:55:55.877972</data>
+		<itens>
+			<item>
+				<produto>Televisão LG OLED 8K</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>8000.00</valor_unitario>
+				<desconto>4320.00</desconto>
+			</item>
+			<item>
+				<produto>Console Xbox Series X</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>2500.00</valor_unitario>
+				<desconto>600.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="41">
+		<cliente>Giovanna Pires</cliente>
+		<data>2024-03-24T09:22:12.830936</data>
+		<itens>
+			<item>
+				<produto>Echo Dot (4ª Geração)</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>250.00</valor_unitario>
+				<desconto>210.00</desconto>
+			</item>
+			<item>
+				<produto>Televisão LG OLED 8K</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>8000.00</valor_unitario>
+				<desconto>3200.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="42">
+		<cliente>Antônio Viana</cliente>
+		<data>2024-04-08T07:16:35.141718</data>
+		<itens>
+			<item>
+				<produto>Notebook Dell XPS 13</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>5000.00</valor_unitario>
+				<desconto>2100.00</desconto>
+			</item>
+			<item>
+				<produto>Câmera Canon EOS R5</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>12000.00</valor_unitario>
+				<desconto>24000.00</desconto>
+			</item>
+			<item>
+				<produto>Televisão LG OLED 8K</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>8000.00</valor_unitario>
+				<desconto>5040.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="43">
+		<cliente>Bárbara Rodrigues</cliente>
+		<data>2024-04-17T17:23:52.866356</data>
+		<itens>
+			<item>
+				<produto>Console Xbox Series X</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>2500.00</valor_unitario>
+				<desconto>925.00</desconto>
+			</item>
+			<item>
+				<produto>Echo Dot (4ª Geração)</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>250.00</valor_unitario>
+				<desconto>175.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="44">
+		<cliente>Enzo Araújo</cliente>
+		<data>2024-04-09T08:18:34.417709</data>
+		<itens>
+			<item>
+				<produto>Fone de Ouvido Bose QuietComfort 35 II</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>1500.00</valor_unitario>
+				<desconto>1575.00</desconto>
+			</item>
+			<item>
+				<produto>Televisão LG OLED 8K</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>8000.00</valor_unitario>
+				<desconto>4000.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="45">
+		<cliente>Luiz Henrique Cavalcanti</cliente>
+		<data>2024-04-07T07:47:33.287860</data>
+		<itens>
+			<item>
+				<produto>Televisão LG OLED 8K</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>8000.00</valor_unitario>
+				<desconto>1520.00</desconto>
+			</item>
+			<item>
+				<produto>Notebook Dell XPS 13</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>5000.00</valor_unitario>
+				<desconto>3500.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="46">
+		<cliente>Nicolas Caldeira</cliente>
+		<data>2024-03-22T15:44:36.007010</data>
+		<itens>
+			<item>
+				<produto>Televisão LG OLED 8K</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>8000.00</valor_unitario>
+				<desconto>7200.00</desconto>
+			</item>
+			<item>
+				<produto>Notebook Dell XPS 13</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>5000.00</valor_unitario>
+				<desconto>650.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="47">
+		<cliente>Laura Ramos</cliente>
+		<data>2024-04-13T18:56:57.013524</data>
+		<itens>
+			<item>
+				<produto>Televisão LG OLED 8K</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>8000.00</valor_unitario>
+				<desconto>3200.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="48">
+		<cliente>Alexandre da Rosa</cliente>
+		<data>2024-04-11T04:58:47.556235</data>
+		<itens>
+			<item>
+				<produto>Televisão LG OLED 8K</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>8000.00</valor_unitario>
+				<desconto>2160.00</desconto>
+			</item>
+			<item>
+				<produto>Câmera Canon EOS R5</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>12000.00</valor_unitario>
+				<desconto>7560.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="49">
+		<cliente>Luana Araújo</cliente>
+		<data>2024-03-22T07:53:26.427828</data>
+		<itens>
+			<item>
+				<produto>Echo Dot (4ª Geração)</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>250.00</valor_unitario>
+				<desconto>40.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="50">
+		<cliente>Luiz Miguel Caldeira</cliente>
+		<data>2024-04-12T06:56:04.138507</data>
+		<itens>
+			<item>
+				<produto>Fone de Ouvido Bose QuietComfort 35 II</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>1500.00</valor_unitario>
+				<desconto>900.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="51">
+		<cliente>Isabelly Farias</cliente>
+		<data>2024-04-08T19:18:26.677690</data>
+		<itens>
+			<item>
+				<produto>Notebook Dell XPS 13</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>5000.00</valor_unitario>
+				<desconto>2900.00</desconto>
+			</item>
+			<item>
+				<produto>Tablet iPad Pro</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>4000.00</valor_unitario>
+				<desconto>2880.00</desconto>
+			</item>
+			<item>
+				<produto>Drone DJI Mavic 3</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>9000.00</valor_unitario>
+				<desconto>1800.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="52">
+		<cliente>Milena da Cunha</cliente>
+		<data>2024-04-12T03:54:00.718505</data>
+		<itens>
+			<item>
+				<produto>Tablet iPad Pro</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>4000.00</valor_unitario>
+				<desconto>680.00</desconto>
+			</item>
+			<item>
+				<produto>Câmera Canon EOS R5</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>12000.00</valor_unitario>
+				<desconto>14400.00</desconto>
+			</item>
+			<item>
+				<produto>Echo Dot (4ª Geração)</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>250.00</valor_unitario>
+				<desconto>375.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="53">
+		<cliente>André Moura</cliente>
+		<data>2024-04-14T05:29:38.114579</data>
+		<itens>
+			<item>
+				<produto>Câmera Canon EOS R5</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>12000.00</valor_unitario>
+				<desconto>9360.00</desconto>
+			</item>
+			<item>
+				<produto>Televisão LG OLED 8K</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>8000.00</valor_unitario>
+				<desconto>1440.00</desconto>
+			</item>
+			<item>
+				<produto>Notebook Dell XPS 13</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>5000.00</valor_unitario>
+				<desconto>1350.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="54">
+		<cliente>Erick Pereira</cliente>
+		<data>2024-04-04T20:58:44.480820</data>
+		<itens>
+			<item>
+				<produto>Console Xbox Series X</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>2500.00</valor_unitario>
+				<desconto>2000.00</desconto>
+			</item>
+			<item>
+				<produto>Echo Dot (4ª Geração)</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>250.00</valor_unitario>
+				<desconto>137.50</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="55">
+		<cliente>Nicole Ribeiro</cliente>
+		<data>2024-03-25T03:14:19.551023</data>
+		<itens>
+			<item>
+				<produto>Echo Dot (4ª Geração)</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>250.00</valor_unitario>
+				<desconto>100.00</desconto>
+			</item>
+			<item>
+				<produto>Tablet iPad Pro</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>4000.00</valor_unitario>
+				<desconto>1920.00</desconto>
+			</item>
+			<item>
+				<produto>Smartphone Samsung Galaxy S23</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>3500.00</valor_unitario>
+				<desconto>875.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="56">
+		<cliente>João Aragão</cliente>
+		<data>2024-04-07T17:55:48.828516</data>
+		<itens>
+			<item>
+				<produto>Televisão LG OLED 8K</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>8000.00</valor_unitario>
+				<desconto>1680.00</desconto>
+			</item>
+			<item>
+				<produto>Notebook Dell XPS 13</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>5000.00</valor_unitario>
+				<desconto>3800.00</desconto>
+			</item>
+			<item>
+				<produto>Smartphone Samsung Galaxy S23</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>3500.00</valor_unitario>
+				<desconto>2940.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="57">
+		<cliente>Gustavo Ferreira</cliente>
+		<data>2024-03-25T20:32:43.239655</data>
+		<itens>
+			<item>
+				<produto>Fone de Ouvido Bose QuietComfort 35 II</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>1500.00</valor_unitario>
+				<desconto>1950.00</desconto>
+			</item>
+			<item>
+				<produto>Echo Dot (4ª Geração)</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>250.00</valor_unitario>
+				<desconto>72.50</desconto>
+			</item>
+			<item>
+				<produto>Smartwatch Apple Watch Series 8</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>1800.00</valor_unitario>
+				<desconto>126.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="58">
+		<cliente>Fernanda Nogueira</cliente>
+		<data>2024-04-15T21:37:10.671087</data>
+		<itens>
+			<item>
+				<produto>Câmera Canon EOS R5</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>12000.00</valor_unitario>
+				<desconto>3240.00</desconto>
+			</item>
+			<item>
+				<produto>Fone de Ouvido Bose QuietComfort 35 II</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>1500.00</valor_unitario>
+				<desconto>900.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="59">
+		<cliente>Ana Julia Pinto</cliente>
+		<data>2024-03-22T00:21:10.826043</data>
+		<itens>
+			<item>
+				<produto>Smartphone Samsung Galaxy S23</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>3500.00</valor_unitario>
+				<desconto>1785.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="60">
+		<cliente>Calebe Viana</cliente>
+		<data>2024-03-31T02:47:45.218107</data>
+		<itens>
+			<item>
+				<produto>Televisão LG OLED 8K</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>8000.00</valor_unitario>
+				<desconto>6000.00</desconto>
+			</item>
+			<item>
+				<produto>Smartphone Samsung Galaxy S23</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>3500.00</valor_unitario>
+				<desconto>840.00</desconto>
+			</item>
+			<item>
+				<produto>Smartwatch Apple Watch Series 8</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>1800.00</valor_unitario>
+				<desconto>1458.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="61">
+		<cliente>Luana Barbosa</cliente>
+		<data>2024-04-12T00:01:01.771105</data>
+		<itens>
+			<item>
+				<produto>Echo Dot (4ª Geração)</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>250.00</valor_unitario>
+				<desconto>55.00</desconto>
+			</item>
+			<item>
+				<produto>Smartphone Samsung Galaxy S23</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>3500.00</valor_unitario>
+				<desconto>980.00</desconto>
+			</item>
+			<item>
+				<produto>Tablet iPad Pro</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>4000.00</valor_unitario>
+				<desconto>240.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="62">
+		<cliente>Rafaela Duarte</cliente>
+		<data>2024-04-15T01:16:24.300590</data>
+		<itens>
+			<item>
+				<produto>Smartwatch Apple Watch Series 8</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>1800.00</valor_unitario>
+				<desconto>2304.00</desconto>
+			</item>
+			<item>
+				<produto>Câmera Canon EOS R5</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>12000.00</valor_unitario>
+				<desconto>1560.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="63">
+		<cliente>Heloísa Lopes</cliente>
+		<data>2024-03-28T11:08:34.132108</data>
+		<itens>
+			<item>
+				<produto>Tablet iPad Pro</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>4000.00</valor_unitario>
+				<desconto>6240.00</desconto>
+			</item>
+			<item>
+				<produto>Fone de Ouvido Bose QuietComfort 35 II</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>1500.00</valor_unitario>
+				<desconto>1320.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="64">
+		<cliente>Luigi Dias</cliente>
+		<data>2024-04-07T01:41:36.158860</data>
+		<itens>
+			<item>
+				<produto>Console Xbox Series X</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>2500.00</valor_unitario>
+				<desconto>375.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="65">
+		<cliente>Nicolas Cunha</cliente>
+		<data>2024-03-25T04:19:09.486477</data>
+		<itens>
+			<item>
+				<produto>Drone DJI Mavic 3</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>9000.00</valor_unitario>
+				<desconto>12600.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="66">
+		<cliente>Ian Ramos</cliente>
+		<data>2024-04-08T12:09:33.279588</data>
+		<itens>
+			<item>
+				<produto>Smartwatch Apple Watch Series 8</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>1800.00</valor_unitario>
+				<desconto>1080.00</desconto>
+			</item>
+			<item>
+				<produto>Televisão LG OLED 8K</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>8000.00</valor_unitario>
+				<desconto>3680.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="67">
+		<cliente>Fernanda Silva</cliente>
+		<data>2024-04-17T19:50:31.669657</data>
+		<itens>
+			<item>
+				<produto>Tablet iPad Pro</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>4000.00</valor_unitario>
+				<desconto>5000.00</desconto>
+			</item>
+			<item>
+				<produto>Televisão LG OLED 8K</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>8000.00</valor_unitario>
+				<desconto>7680.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="68">
+		<cliente>Eloah da Costa</cliente>
+		<data>2024-03-21T08:09:15.483575</data>
+		<itens>
+			<item>
+				<produto>Echo Dot (4ª Geração)</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>250.00</valor_unitario>
+				<desconto>195.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="69">
+		<cliente>Henrique Vieira</cliente>
+		<data>2024-04-04T02:17:24.934777</data>
+		<itens>
+			<item>
+				<produto>Tablet iPad Pro</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>4000.00</valor_unitario>
+				<desconto>3000.00</desconto>
+			</item>
+			<item>
+				<produto>Notebook Dell XPS 13</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>5000.00</valor_unitario>
+				<desconto>5400.00</desconto>
+			</item>
+			<item>
+				<produto>Câmera Canon EOS R5</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>12000.00</valor_unitario>
+				<desconto>1800.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="70">
+		<cliente>Luiz Gustavo Correia</cliente>
+		<data>2024-04-18T00:15:51.131523</data>
+		<itens>
+			<item>
+				<produto>Console Xbox Series X</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>2500.00</valor_unitario>
+				<desconto>300.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="71">
+		<cliente>Igor da Paz</cliente>
+		<data>2024-03-27T19:28:41.054212</data>
+		<itens>
+			<item>
+				<produto>Console Xbox Series X</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>2500.00</valor_unitario>
+				<desconto>525.00</desconto>
+			</item>
+			<item>
+				<produto>Fone de Ouvido Bose QuietComfort 35 II</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>1500.00</valor_unitario>
+				<desconto>420.00</desconto>
+			</item>
+			<item>
+				<produto>Smartwatch Apple Watch Series 8</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>1800.00</valor_unitario>
+				<desconto>2700.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="72">
+		<cliente>Bárbara Carvalho</cliente>
+		<data>2024-04-02T07:33:17.485383</data>
+		<itens>
+			<item>
+				<produto>Smartwatch Apple Watch Series 8</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>1800.00</valor_unitario>
+				<desconto>2808.00</desconto>
+			</item>
+			<item>
+				<produto>Echo Dot (4ª Geração)</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>250.00</valor_unitario>
+				<desconto>45.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="73">
+		<cliente>Danilo Campos</cliente>
+		<data>2024-04-04T11:52:07.986588</data>
+		<itens>
+			<item>
+				<produto>Fone de Ouvido Bose QuietComfort 35 II</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>1500.00</valor_unitario>
+				<desconto>330.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="74">
+		<cliente>Clara Mendes</cliente>
+		<data>2024-04-14T09:40:58.214168</data>
+		<itens>
+			<item>
+				<produto>Smartphone Samsung Galaxy S23</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>3500.00</valor_unitario>
+				<desconto>2275.00</desconto>
+			</item>
+			<item>
+				<produto>Televisão LG OLED 8K</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>8000.00</valor_unitario>
+				<desconto>4000.00</desconto>
+			</item>
+			<item>
+				<produto>Notebook Dell XPS 13</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>5000.00</valor_unitario>
+				<desconto>2300.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="75">
+		<cliente>Kaique Oliveira</cliente>
+		<data>2024-03-26T08:14:23.101656</data>
+		<itens>
+			<item>
+				<produto>Notebook Dell XPS 13</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>5000.00</valor_unitario>
+				<desconto>600.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="76">
+		<cliente>André Rezende</cliente>
+		<data>2024-03-22T16:35:32.768835</data>
+		<itens>
+			<item>
+				<produto>Tablet iPad Pro</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>4000.00</valor_unitario>
+				<desconto>760.00</desconto>
+			</item>
+			<item>
+				<produto>Notebook Dell XPS 13</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>5000.00</valor_unitario>
+				<desconto>1150.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="77">
+		<cliente>Luiz Fernando Peixoto</cliente>
+		<data>2024-04-05T01:50:08.366317</data>
+		<itens>
+			<item>
+				<produto>Tablet iPad Pro</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>4000.00</valor_unitario>
+				<desconto>5800.00</desconto>
+			</item>
+			<item>
+				<produto>Smartwatch Apple Watch Series 8</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>1800.00</valor_unitario>
+				<desconto>720.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="78">
+		<cliente>Diego Fogaça</cliente>
+		<data>2024-04-09T05:04:52.896858</data>
+		<itens>
+			<item>
+				<produto>Fone de Ouvido Bose QuietComfort 35 II</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>1500.00</valor_unitario>
+				<desconto>2160.00</desconto>
+			</item>
+			<item>
+				<produto>Drone DJI Mavic 3</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>9000.00</valor_unitario>
+				<desconto>2700.00</desconto>
+			</item>
+			<item>
+				<produto>Smartphone Samsung Galaxy S23</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>3500.00</valor_unitario>
+				<desconto>3780.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="79">
+		<cliente>Felipe Melo</cliente>
+		<data>2024-04-04T01:06:39.476576</data>
+		<itens>
+			<item>
+				<produto>Fone de Ouvido Bose QuietComfort 35 II</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>1500.00</valor_unitario>
+				<desconto>2100.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="80">
+		<cliente>Sofia Barbosa</cliente>
+		<data>2024-04-15T07:36:16.093843</data>
+		<itens>
+			<item>
+				<produto>Tablet iPad Pro</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>4000.00</valor_unitario>
+				<desconto>1200.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="81">
+		<cliente>Danilo Santos</cliente>
+		<data>2024-04-05T02:57:05.400779</data>
+		<itens>
+			<item>
+				<produto>Televisão LG OLED 8K</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>8000.00</valor_unitario>
+				<desconto>1680.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="82">
+		<cliente>Kaique Barbosa</cliente>
+		<data>2024-03-27T06:52:21.200610</data>
+		<itens>
+			<item>
+				<produto>Drone DJI Mavic 3</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>9000.00</valor_unitario>
+				<desconto>3600.00</desconto>
+			</item>
+			<item>
+				<produto>Câmera Canon EOS R5</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>12000.00</valor_unitario>
+				<desconto>6720.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="83">
+		<cliente>Benício da Luz</cliente>
+		<data>2024-03-29T22:41:05.407826</data>
+		<itens>
+			<item>
+				<produto>Smartphone Samsung Galaxy S23</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>3500.00</valor_unitario>
+				<desconto>1680.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="84">
+		<cliente>Benício Campos</cliente>
+		<data>2024-03-30T20:00:27.093122</data>
+		<itens>
+			<item>
+				<produto>Tablet iPad Pro</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>4000.00</valor_unitario>
+				<desconto>1600.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="85">
+		<cliente>Ana Oliveira</cliente>
+		<data>2024-04-15T18:31:37.040509</data>
+		<itens>
+			<item>
+				<produto>Drone DJI Mavic 3</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>9000.00</valor_unitario>
+				<desconto>5400.00</desconto>
+			</item>
+			<item>
+				<produto>Notebook Dell XPS 13</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>5000.00</valor_unitario>
+				<desconto>8000.00</desconto>
+			</item>
+			<item>
+				<produto>Smartwatch Apple Watch Series 8</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>1800.00</valor_unitario>
+				<desconto>216.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="86">
+		<cliente>Larissa Moura</cliente>
+		<data>2024-03-24T00:29:16.856128</data>
+		<itens>
+			<item>
+				<produto>Câmera Canon EOS R5</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>12000.00</valor_unitario>
+				<desconto>2400.00</desconto>
+			</item>
+			<item>
+				<produto>Notebook Dell XPS 13</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>5000.00</valor_unitario>
+				<desconto>350.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="87">
+		<cliente>Davi Gonçalves</cliente>
+		<data>2024-04-01T08:13:35.127508</data>
+		<itens>
+			<item>
+				<produto>Notebook Dell XPS 13</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>5000.00</valor_unitario>
+				<desconto>1050.00</desconto>
+			</item>
+			<item>
+				<produto>Echo Dot (4ª Geração)</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>250.00</valor_unitario>
+				<desconto>70.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="88">
+		<cliente>Ana Vitória Duarte</cliente>
+		<data>2024-04-01T08:48:41.310190</data>
+		<itens>
+			<item>
+				<produto>Echo Dot (4ª Geração)</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>250.00</valor_unitario>
+				<desconto>185.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="89">
+		<cliente>Juliana Almeida</cliente>
+		<data>2024-03-30T19:23:44.940291</data>
+		<itens>
+			<item>
+				<produto>Smartwatch Apple Watch Series 8</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>1800.00</valor_unitario>
+				<desconto>2340.00</desconto>
+			</item>
+			<item>
+				<produto>Smartphone Samsung Galaxy S23</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>3500.00</valor_unitario>
+				<desconto>350.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="90">
+		<cliente>Thales Nogueira</cliente>
+		<data>2024-04-07T09:50:33.036251</data>
+		<itens>
+			<item>
+				<produto>Console Xbox Series X</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>2500.00</valor_unitario>
+				<desconto>4875.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="91">
+		<cliente>Luiza Porto</cliente>
+		<data>2024-04-15T09:55:53.922806</data>
+		<itens>
+			<item>
+				<produto>Smartphone Samsung Galaxy S23</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>3500.00</valor_unitario>
+				<desconto>1400.00</desconto>
+			</item>
+			<item>
+				<produto>Televisão LG OLED 8K</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>8000.00</valor_unitario>
+				<desconto>5280.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="92">
+		<cliente>Maria Luiza Fernandes</cliente>
+		<data>2024-04-05T16:27:35.583541</data>
+		<itens>
+			<item>
+				<produto>Smartphone Samsung Galaxy S23</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>3500.00</valor_unitario>
+				<desconto>770.00</desconto>
+			</item>
+			<item>
+				<produto>Televisão LG OLED 8K</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>8000.00</valor_unitario>
+				<desconto>6240.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="93">
+		<cliente>Alexia Duarte</cliente>
+		<data>2024-03-29T23:40:17.985755</data>
+		<itens>
+			<item>
+				<produto>Smartphone Samsung Galaxy S23</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>3500.00</valor_unitario>
+				<desconto>560.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="94">
+		<cliente>Maria Sophia Farias</cliente>
+		<data>2024-04-02T08:47:31.917270</data>
+		<itens>
+			<item>
+				<produto>Smartwatch Apple Watch Series 8</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>1800.00</valor_unitario>
+				<desconto>1188.00</desconto>
+			</item>
+			<item>
+				<produto>Notebook Dell XPS 13</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>5000.00</valor_unitario>
+				<desconto>3600.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="95">
+		<cliente>Luiz Miguel Duarte</cliente>
+		<data>2024-03-23T18:22:19.992190</data>
+		<itens>
+			<item>
+				<produto>Televisão LG OLED 8K</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>8000.00</valor_unitario>
+				<desconto>2160.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="96">
+		<cliente>Ana Luiza Moura</cliente>
+		<data>2024-04-01T02:22:44.571758</data>
+		<itens>
+			<item>
+				<produto>Fone de Ouvido Bose QuietComfort 35 II</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>1500.00</valor_unitario>
+				<desconto>480.00</desconto>
+			</item>
+			<item>
+				<produto>Drone DJI Mavic 3</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>9000.00</valor_unitario>
+				<desconto>13950.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="97">
+		<cliente>Giovanna Rocha</cliente>
+		<data>2024-04-05T18:17:21.659292</data>
+		<itens>
+			<item>
+				<produto>Drone DJI Mavic 3</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>9000.00</valor_unitario>
+				<desconto>10800.00</desconto>
+			</item>
+			<item>
+				<produto>Notebook Dell XPS 13</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>5000.00</valor_unitario>
+				<desconto>3600.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="98">
+		<cliente>Cauê Alves</cliente>
+		<data>2024-03-26T03:32:49.121992</data>
+		<itens>
+			<item>
+				<produto>Câmera Canon EOS R5</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>12000.00</valor_unitario>
+				<desconto>5760.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="99">
+		<cliente>Carolina Aragão</cliente>
+		<data>2024-04-06T15:06:46.845729</data>
+		<itens>
+			<item>
+				<produto>Notebook Dell XPS 13</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>5000.00</valor_unitario>
+				<desconto>8000.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="100">
+		<cliente>Lucas Jesus</cliente>
+		<data>2024-04-08T14:14:18.990842</data>
+		<itens>
+			<item>
+				<produto>Fone de Ouvido Bose QuietComfort 35 II</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>1500.00</valor_unitario>
+				<desconto>1980.00</desconto>
+			</item>
+			<item>
+				<produto>Tablet iPad Pro</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>4000.00</valor_unitario>
+				<desconto>320.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="101">
+		<cliente>Paulo Porto</cliente>
+		<data>2024-04-18T03:51:32.369923</data>
+		<itens>
+			<item>
+				<produto>Fone de Ouvido Bose QuietComfort 35 II</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>1500.00</valor_unitario>
+				<desconto>315.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="102">
+		<cliente>Felipe Silva</cliente>
+		<data>2024-03-28T04:45:42.567163</data>
+		<itens>
+			<item>
+				<produto>Console Xbox Series X</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>2500.00</valor_unitario>
+				<desconto>2250.00</desconto>
+			</item>
+			<item>
+				<produto>Smartphone Samsung Galaxy S23</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>3500.00</valor_unitario>
+				<desconto>4480.00</desconto>
+			</item>
+			<item>
+				<produto>Televisão LG OLED 8K</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>8000.00</valor_unitario>
+				<desconto>1680.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="103">
+		<cliente>Matheus Silveira</cliente>
+		<data>2024-03-28T10:20:49.323129</data>
+		<itens>
+			<item>
+				<produto>Fone de Ouvido Bose QuietComfort 35 II</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>1500.00</valor_unitario>
+				<desconto>360.00</desconto>
+			</item>
+			<item>
+				<produto>Smartphone Samsung Galaxy S23</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>3500.00</valor_unitario>
+				<desconto>805.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="104">
+		<cliente>Esther Rezende</cliente>
+		<data>2024-04-17T22:24:02.935329</data>
+		<itens>
+			<item>
+				<produto>Câmera Canon EOS R5</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>12000.00</valor_unitario>
+				<desconto>3960.00</desconto>
+			</item>
+			<item>
+				<produto>Notebook Dell XPS 13</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>5000.00</valor_unitario>
+				<desconto>1900.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="105">
+		<cliente>Vicente Correia</cliente>
+		<data>2024-04-14T11:38:53.314630</data>
+		<itens>
+			<item>
+				<produto>Fone de Ouvido Bose QuietComfort 35 II</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>1500.00</valor_unitario>
+				<desconto>375.00</desconto>
+			</item>
+			<item>
+				<produto>Televisão LG OLED 8K</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>8000.00</valor_unitario>
+				<desconto>9600.00</desconto>
+			</item>
+			<item>
+				<produto>Echo Dot (4ª Geração)</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>250.00</valor_unitario>
+				<desconto>180.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="106">
+		<cliente>Ryan Dias</cliente>
+		<data>2024-03-23T04:08:33.223559</data>
+		<itens>
+			<item>
+				<produto>Fone de Ouvido Bose QuietComfort 35 II</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>1500.00</valor_unitario>
+				<desconto>1020.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="107">
+		<cliente>Isabel Ribeiro</cliente>
+		<data>2024-04-07T19:20:12.819501</data>
+		<itens>
+			<item>
+				<produto>Echo Dot (4ª Geração)</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>250.00</valor_unitario>
+				<desconto>32.50</desconto>
+			</item>
+			<item>
+				<produto>Console Xbox Series X</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>2500.00</valor_unitario>
+				<desconto>1000.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="108">
+		<cliente>Manuela Ribeiro</cliente>
+		<data>2024-04-16T19:44:58.125489</data>
+		<itens>
+			<item>
+				<produto>Smartphone Samsung Galaxy S23</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>3500.00</valor_unitario>
+				<desconto>630.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="109">
+		<cliente>Brenda da Mota</cliente>
+		<data>2024-04-05T10:17:05.303892</data>
+		<itens>
+			<item>
+				<produto>Notebook Dell XPS 13</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>5000.00</valor_unitario>
+				<desconto>800.00</desconto>
+			</item>
+			<item>
+				<produto>Smartwatch Apple Watch Series 8</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>1800.00</valor_unitario>
+				<desconto>2448.00</desconto>
+			</item>
+			<item>
+				<produto>Tablet iPad Pro</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>4000.00</valor_unitario>
+				<desconto>3720.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="110">
+		<cliente>Lara Freitas</cliente>
+		<data>2024-04-08T08:03:31.610477</data>
+		<itens>
+			<item>
+				<produto>Echo Dot (4ª Geração)</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>250.00</valor_unitario>
+				<desconto>360.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="111">
+		<cliente>Yuri Pires</cliente>
+		<data>2024-04-10T01:45:54.552379</data>
+		<itens>
+			<item>
+				<produto>Notebook Dell XPS 13</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>5000.00</valor_unitario>
+				<desconto>400.00</desconto>
+			</item>
+			<item>
+				<produto>Tablet iPad Pro</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>4000.00</valor_unitario>
+				<desconto>2240.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="112">
+		<cliente>Vinicius Ramos</cliente>
+		<data>2024-03-29T13:37:06.213229</data>
+		<itens>
+			<item>
+				<produto>Smartphone Samsung Galaxy S23</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>3500.00</valor_unitario>
+				<desconto>2100.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="113">
+		<cliente>Maria Luiza Carvalho</cliente>
+		<data>2024-03-24T03:50:51.506554</data>
+		<itens>
+			<item>
+				<produto>Televisão LG OLED 8K</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>8000.00</valor_unitario>
+				<desconto>9600.00</desconto>
+			</item>
+			<item>
+				<produto>Fone de Ouvido Bose QuietComfort 35 II</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>1500.00</valor_unitario>
+				<desconto>450.00</desconto>
+			</item>
+			<item>
+				<produto>Drone DJI Mavic 3</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>9000.00</valor_unitario>
+				<desconto>1890.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="114">
+		<cliente>Pedro Moreira</cliente>
+		<data>2024-03-28T09:14:19.551587</data>
+		<itens>
+			<item>
+				<produto>Fone de Ouvido Bose QuietComfort 35 II</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>1500.00</valor_unitario>
+				<desconto>510.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="115">
+		<cliente>Ana Carolina Monteiro</cliente>
+		<data>2024-04-02T20:15:31.246754</data>
+		<itens>
+			<item>
+				<produto>Smartwatch Apple Watch Series 8</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>1800.00</valor_unitario>
+				<desconto>1188.00</desconto>
+			</item>
+			<item>
+				<produto>Console Xbox Series X</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>2500.00</valor_unitario>
+				<desconto>600.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="116">
+		<cliente>Gabriela Duarte</cliente>
+		<data>2024-04-16T11:40:33.891068</data>
+		<itens>
+			<item>
+				<produto>Televisão LG OLED 8K</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>8000.00</valor_unitario>
+				<desconto>1760.00</desconto>
+			</item>
+			<item>
+				<produto>Câmera Canon EOS R5</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>12000.00</valor_unitario>
+				<desconto>4560.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="117">
+		<cliente>Gustavo Nascimento</cliente>
+		<data>2024-04-15T05:09:48.728388</data>
+		<itens>
+			<item>
+				<produto>Tablet iPad Pro</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>4000.00</valor_unitario>
+				<desconto>4800.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="118">
+		<cliente>Carolina da Cunha</cliente>
+		<data>2024-03-21T14:15:15.717351</data>
+		<itens>
+			<item>
+				<produto>Smartphone Samsung Galaxy S23</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>3500.00</valor_unitario>
+				<desconto>2415.00</desconto>
+			</item>
+			<item>
+				<produto>Smartwatch Apple Watch Series 8</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>1800.00</valor_unitario>
+				<desconto>990.00</desconto>
+			</item>
+			<item>
+				<produto>Drone DJI Mavic 3</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>9000.00</valor_unitario>
+				<desconto>2970.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="119">
+		<cliente>Benício Viana</cliente>
+		<data>2024-04-19T14:32:48.414591</data>
+		<itens>
+			<item>
+				<produto>Televisão LG OLED 8K</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>8000.00</valor_unitario>
+				<desconto>14000.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="120">
+		<cliente>Diogo Moraes</cliente>
+		<data>2024-03-30T00:01:17.484985</data>
+		<itens>
+			<item>
+				<produto>Echo Dot (4ª Geração)</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>250.00</valor_unitario>
+				<desconto>375.00</desconto>
+			</item>
+			<item>
+				<produto>Câmera Canon EOS R5</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>12000.00</valor_unitario>
+				<desconto>7200.00</desconto>
+			</item>
+			<item>
+				<produto>Notebook Dell XPS 13</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>5000.00</valor_unitario>
+				<desconto>2200.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="121">
+		<cliente>João Miguel Freitas</cliente>
+		<data>2024-04-15T15:12:47.784922</data>
+		<itens>
+			<item>
+				<produto>Televisão LG OLED 8K</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>8000.00</valor_unitario>
+				<desconto>960.00</desconto>
+			</item>
+			<item>
+				<produto>Fone de Ouvido Bose QuietComfort 35 II</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>1500.00</valor_unitario>
+				<desconto>2100.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="122">
+		<cliente>Joana Vieira</cliente>
+		<data>2024-04-13T15:44:29.433187</data>
+		<itens>
+			<item>
+				<produto>Notebook Dell XPS 13</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>5000.00</valor_unitario>
+				<desconto>1750.00</desconto>
+			</item>
+			<item>
+				<produto>Echo Dot (4ª Geração)</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>250.00</valor_unitario>
+				<desconto>400.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="123">
+		<cliente>Gustavo Pereira</cliente>
+		<data>2024-03-24T21:52:07.246164</data>
+		<itens>
+			<item>
+				<produto>Câmera Canon EOS R5</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>12000.00</valor_unitario>
+				<desconto>4800.00</desconto>
+			</item>
+			<item>
+				<produto>Fone de Ouvido Bose QuietComfort 35 II</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>1500.00</valor_unitario>
+				<desconto>495.00</desconto>
+			</item>
+			<item>
+				<produto>Console Xbox Series X</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>2500.00</valor_unitario>
+				<desconto>2775.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="124">
+		<cliente>Ana Júlia Gonçalves</cliente>
+		<data>2024-03-31T19:38:00.618978</data>
+		<itens>
+			<item>
+				<produto>Notebook Dell XPS 13</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>5000.00</valor_unitario>
+				<desconto>8750.00</desconto>
+			</item>
+			<item>
+				<produto>Smartwatch Apple Watch Series 8</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>1800.00</valor_unitario>
+				<desconto>1980.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="125">
+		<cliente>Isaac Silveira</cliente>
+		<data>2024-03-30T18:40:50.701559</data>
+		<itens>
+			<item>
+				<produto>Smartwatch Apple Watch Series 8</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>1800.00</valor_unitario>
+				<desconto>252.00</desconto>
+			</item>
+			<item>
+				<produto>Televisão LG OLED 8K</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>8000.00</valor_unitario>
+				<desconto>11600.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="126">
+		<cliente>Ana Clara Correia</cliente>
+		<data>2024-04-04T18:48:39.626861</data>
+		<itens>
+			<item>
+				<produto>Tablet iPad Pro</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>4000.00</valor_unitario>
+				<desconto>4080.00</desconto>
+			</item>
+			<item>
+				<produto>Smartwatch Apple Watch Series 8</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>1800.00</valor_unitario>
+				<desconto>864.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="127">
+		<cliente>Emanuel das Neves</cliente>
+		<data>2024-03-25T02:08:15.074685</data>
+		<itens>
+			<item>
+				<produto>Câmera Canon EOS R5</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>12000.00</valor_unitario>
+				<desconto>6240.00</desconto>
+			</item>
+			<item>
+				<produto>Echo Dot (4ª Geração)</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>250.00</valor_unitario>
+				<desconto>135.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="128">
+		<cliente>Ian Rodrigues</cliente>
+		<data>2024-04-02T20:03:32.532645</data>
+		<itens>
+			<item>
+				<produto>Fone de Ouvido Bose QuietComfort 35 II</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>1500.00</valor_unitario>
+				<desconto>300.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="129">
+		<cliente>Fernanda Moreira</cliente>
+		<data>2024-04-04T16:41:42.313400</data>
+		<itens>
+			<item>
+				<produto>Console Xbox Series X</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>2500.00</valor_unitario>
+				<desconto>300.00</desconto>
+			</item>
+			<item>
+				<produto>Televisão LG OLED 8K</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>8000.00</valor_unitario>
+				<desconto>2720.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="130">
+		<cliente>Yago Pires</cliente>
+		<data>2024-03-24T06:21:42.184463</data>
+		<itens>
+			<item>
+				<produto>Smartwatch Apple Watch Series 8</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>1800.00</valor_unitario>
+				<desconto>1836.00</desconto>
+			</item>
+			<item>
+				<produto>Smartphone Samsung Galaxy S23</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>3500.00</valor_unitario>
+				<desconto>4900.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="131">
+		<cliente>Pedro Rodrigues</cliente>
+		<data>2024-03-24T00:35:22.673204</data>
+		<itens>
+			<item>
+				<produto>Notebook Dell XPS 13</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>5000.00</valor_unitario>
+				<desconto>5100.00</desconto>
+			</item>
+			<item>
+				<produto>Smartwatch Apple Watch Series 8</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>1800.00</valor_unitario>
+				<desconto>2808.00</desconto>
+			</item>
+			<item>
+				<produto>Fone de Ouvido Bose QuietComfort 35 II</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>1500.00</valor_unitario>
+				<desconto>1050.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="132">
+		<cliente>Maria Vitória Gomes</cliente>
+		<data>2024-04-03T06:37:01.534446</data>
+		<itens>
+			<item>
+				<produto>Notebook Dell XPS 13</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>5000.00</valor_unitario>
+				<desconto>750.00</desconto>
+			</item>
+			<item>
+				<produto>Smartphone Samsung Galaxy S23</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>3500.00</valor_unitario>
+				<desconto>1960.00</desconto>
+			</item>
+			<item>
+				<produto>Televisão LG OLED 8K</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>8000.00</valor_unitario>
+				<desconto>5520.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="133">
+		<cliente>Ana Clara Moraes</cliente>
+		<data>2024-03-21T06:40:52.896566</data>
+		<itens>
+			<item>
+				<produto>Fone de Ouvido Bose QuietComfort 35 II</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>1500.00</valor_unitario>
+				<desconto>225.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="134">
+		<cliente>Gabriel Barros</cliente>
+		<data>2024-04-03T02:23:27.626592</data>
+		<itens>
+			<item>
+				<produto>Fone de Ouvido Bose QuietComfort 35 II</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>1500.00</valor_unitario>
+				<desconto>480.00</desconto>
+			</item>
+			<item>
+				<produto>Tablet iPad Pro</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>4000.00</valor_unitario>
+				<desconto>6240.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="135">
+		<cliente>Levi Rezende</cliente>
+		<data>2024-04-10T04:37:16.375876</data>
+		<itens>
+			<item>
+				<produto>Notebook Dell XPS 13</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>5000.00</valor_unitario>
+				<desconto>3400.00</desconto>
+			</item>
+			<item>
+				<produto>Tablet iPad Pro</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>4000.00</valor_unitario>
+				<desconto>3120.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="136">
+		<cliente>Lorenzo Rezende</cliente>
+		<data>2024-04-14T18:30:27.599165</data>
+		<itens>
+			<item>
+				<produto>Tablet iPad Pro</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>4000.00</valor_unitario>
+				<desconto>2800.00</desconto>
+			</item>
+			<item>
+				<produto>Notebook Dell XPS 13</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>5000.00</valor_unitario>
+				<desconto>2300.00</desconto>
+			</item>
+			<item>
+				<produto>Echo Dot (4ª Geração)</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>250.00</valor_unitario>
+				<desconto>92.50</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="137">
+		<cliente>Caroline Aragão</cliente>
+		<data>2024-04-04T08:07:28.764066</data>
+		<itens>
+			<item>
+				<produto>Echo Dot (4ª Geração)</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>250.00</valor_unitario>
+				<desconto>310.00</desconto>
+			</item>
+			<item>
+				<produto>Smartphone Samsung Galaxy S23</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>3500.00</valor_unitario>
+				<desconto>770.00</desconto>
+			</item>
+			<item>
+				<produto>Console Xbox Series X</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>2500.00</valor_unitario>
+				<desconto>625.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="138">
+		<cliente>Natália da Mota</cliente>
+		<data>2024-04-16T00:58:32.378459</data>
+		<itens>
+			<item>
+				<produto>Smartphone Samsung Galaxy S23</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>3500.00</valor_unitario>
+				<desconto>245.00</desconto>
+			</item>
+			<item>
+				<produto>Drone DJI Mavic 3</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>9000.00</valor_unitario>
+				<desconto>10080.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="139">
+		<cliente>Marcelo Cardoso</cliente>
+		<data>2024-04-15T18:06:46.133515</data>
+		<itens>
+			<item>
+				<produto>Tablet iPad Pro</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>4000.00</valor_unitario>
+				<desconto>2880.00</desconto>
+			</item>
+			<item>
+				<produto>Notebook Dell XPS 13</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>5000.00</valor_unitario>
+				<desconto>6400.00</desconto>
+			</item>
+			<item>
+				<produto>Televisão LG OLED 8K</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>8000.00</valor_unitario>
+				<desconto>3120.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="140">
+		<cliente>Raul Farias</cliente>
+		<data>2024-03-24T12:18:43.624760</data>
+		<itens>
+			<item>
+				<produto>Smartphone Samsung Galaxy S23</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>3500.00</valor_unitario>
+				<desconto>1890.00</desconto>
+			</item>
+			<item>
+				<produto>Drone DJI Mavic 3</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>9000.00</valor_unitario>
+				<desconto>9990.00</desconto>
+			</item>
+			<item>
+				<produto>Fone de Ouvido Bose QuietComfort 35 II</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>1500.00</valor_unitario>
+				<desconto>840.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="141">
+		<cliente>Benjamin Martins</cliente>
+		<data>2024-03-28T21:16:34.840170</data>
+		<itens>
+			<item>
+				<produto>Notebook Dell XPS 13</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>5000.00</valor_unitario>
+				<desconto>1650.00</desconto>
+			</item>
+			<item>
+				<produto>Smartwatch Apple Watch Series 8</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>1800.00</valor_unitario>
+				<desconto>306.00</desconto>
+			</item>
+			<item>
+				<produto>Tablet iPad Pro</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>4000.00</valor_unitario>
+				<desconto>6200.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="142">
+		<cliente>Maria Vitória Lima</cliente>
+		<data>2024-04-13T04:45:05.716700</data>
+		<itens>
+			<item>
+				<produto>Smartphone Samsung Galaxy S23</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>3500.00</valor_unitario>
+				<desconto>1365.00</desconto>
+			</item>
+			<item>
+				<produto>Drone DJI Mavic 3</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>9000.00</valor_unitario>
+				<desconto>6660.00</desconto>
+			</item>
+			<item>
+				<produto>Televisão LG OLED 8K</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>8000.00</valor_unitario>
+				<desconto>4400.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="143">
+		<cliente>Eloah Viana</cliente>
+		<data>2024-04-13T16:51:33.921636</data>
+		<itens>
+			<item>
+				<produto>Smartphone Samsung Galaxy S23</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>3500.00</valor_unitario>
+				<desconto>1750.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="144">
+		<cliente>João Freitas</cliente>
+		<data>2024-03-22T20:16:42.951337</data>
+		<itens>
+			<item>
+				<produto>Notebook Dell XPS 13</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>5000.00</valor_unitario>
+				<desconto>1000.00</desconto>
+			</item>
+			<item>
+				<produto>Console Xbox Series X</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>2500.00</valor_unitario>
+				<desconto>300.00</desconto>
+			</item>
+			<item>
+				<produto>Drone DJI Mavic 3</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>9000.00</valor_unitario>
+				<desconto>4680.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="145">
+		<cliente>Sabrina Ferreira</cliente>
+		<data>2024-04-18T09:23:44.944213</data>
+		<itens>
+			<item>
+				<produto>Tablet iPad Pro</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>4000.00</valor_unitario>
+				<desconto>5000.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="146">
+		<cliente>Rebeca Rodrigues</cliente>
+		<data>2024-03-31T05:11:01.133797</data>
+		<itens>
+			<item>
+				<produto>Console Xbox Series X</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>2500.00</valor_unitario>
+				<desconto>275.00</desconto>
+			</item>
+			<item>
+				<produto>Fone de Ouvido Bose QuietComfort 35 II</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>1500.00</valor_unitario>
+				<desconto>1800.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="147">
+		<cliente>Ana Lívia Teixeira</cliente>
+		<data>2024-04-17T03:48:39.075644</data>
+		<itens>
+			<item>
+				<produto>Smartphone Samsung Galaxy S23</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>3500.00</valor_unitario>
+				<desconto>630.00</desconto>
+			</item>
+			<item>
+				<produto>Console Xbox Series X</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>2500.00</valor_unitario>
+				<desconto>1125.00</desconto>
+			</item>
+			<item>
+				<produto>Televisão LG OLED 8K</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>8000.00</valor_unitario>
+				<desconto>3200.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="148">
+		<cliente>Kaique Nogueira</cliente>
+		<data>2024-03-29T08:52:01.201791</data>
+		<itens>
+			<item>
+				<produto>Notebook Dell XPS 13</produto>
+				<quantidade>5</quantidade>
+				<valor_unitario>5000.00</valor_unitario>
+				<desconto>5500.00</desconto>
+			</item>
+			<item>
+				<produto>Câmera Canon EOS R5</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>12000.00</valor_unitario>
+				<desconto>8880.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="149">
+		<cliente>Nina Campos</cliente>
+		<data>2024-03-21T13:19:43.064368</data>
+		<itens>
+			<item>
+				<produto>Notebook Dell XPS 13</produto>
+				<quantidade>2</quantidade>
+				<valor_unitario>5000.00</valor_unitario>
+				<desconto>3700.00</desconto>
+			</item>
+			<item>
+				<produto>Console Xbox Series X</produto>
+				<quantidade>3</quantidade>
+				<valor_unitario>2500.00</valor_unitario>
+				<desconto>3000.00</desconto>
+			</item>
+		</itens>
+	</venda>
+	<venda id="150">
+		<cliente>Noah Rocha</cliente>
+		<data>2024-04-19T07:06:37.633788</data>
+		<itens>
+			<item>
+				<produto>Televisão LG OLED 8K</produto>
+				<quantidade>1</quantidade>
+				<valor_unitario>8000.00</valor_unitario>
+				<desconto>2720.00</desconto>
+			</item>
+			<item>
+				<produto>Tablet iPad Pro</produto>
+				<quantidade>4</quantidade>
+				<valor_unitario>4000.00</valor_unitario>
+				<desconto>6080.00</desconto>
+			</item>
+		</itens>
+	</venda>
+</vendas>

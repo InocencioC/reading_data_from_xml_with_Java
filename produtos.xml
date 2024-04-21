@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vendas>
+  <venda id "1">
+  <cliente>1</cliente>
+  <data>2024-04-19T06:48:54.531808</data>
+  <itens>
+     <item>
+         <produto>Caneta </produto>
+         <preco>2500</preco>
+         <quantidade>10</quantidade>
+         <desconto>10</desconto>
+      <item>
+      <item>
+         <produto>Caneta Azul</produto>
+         <preco>200</preco>
+         <quantidade>110</quantidade>
+         <desconto>15</desconto>
+      <item>
+    </itens>
+</venda>
+
+  <venda id "1">
+  <cliente>1</cliente>
+  <data>2024-04-19T06:48:54.531808</data>
+  <itens>
+     <item>
+         <produto>Caneta </produto>
+         <preco>2500</preco>
+         <quantidade>10</quantidade>
+         <desconto>10</desconto>
+      <item>
+      <item>
+         <produto>Caneta Azul</produto>
+         <preco>200</preco>
+         <quantidade>110</quantidade>
+         <desconto>15</desconto>
+      <item>
+    </itens>
+</venda>
+
+  <venda id "1">
+  <cliente>1</cliente>
+  <data>2024-04-19T06:48:54.531808</data>
+  <itens>
+     <item>
+         <produto>Caneta </produto>
+         <preco>2500</preco>
+         <quantidade>10</quantidade>
+         <desconto>10</desconto>
+      <item>
+      <item>
+         <produto>Caneta Azul</produto>
+         <preco>200</preco>
+         <quantidade>110</quantidade>
+         <desconto>15</desconto>
+      <item>
+    </itens>
+</venda>
+
+  <venda id "1">
+  <cliente>1</cliente>
+  <data>2024-04-19T06:48:54.531808</data>
+  <itens>
+     <item>
+         <produto>Caneta </produto>
+         <preco>2500</preco>
+         <quantidade>10</quantidade>
+         <desconto>10</desconto>
+      <item>
+      <item>
+         <produto>Caneta Azul</produto>
+         <preco>200</preco>
+         <quantidade>110</quantidade>
+         <desconto>15</desconto>
+      <item>
+    </itens>
+</venda>
+
+  <venda id "1">
+  <cliente>1</cliente>
+  <data>2024-04-19T06:48:54.531808</data>
+  <itens>
+     <item>
+         <produto>Caneta </produto>
+         <preco>2500</preco>
+         <quantidade>10</quantidade>
+         <desconto>10</desconto>
+      <item>
+      <item>
+         <produto>Caneta Azul</produto>
+         <preco>200</preco>
+         <quantidade>110</quantidade>
+         <desconto>15</desconto>
+      <item>
+    </itens>
+</venda>
+
+    
+</vendas>
