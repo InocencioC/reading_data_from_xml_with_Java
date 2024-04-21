@@ -7,13 +7,13 @@ import java.math.BigDecimal;
 
 @XmlAccessorType(XmlAccessType.FIELD)
 public class Item {
-    @XmlElement
+    @XmlElement(name = "produto")
     private String product;
-    @XmlElement
+    @XmlElement(name = "quantidade")
     private Integer quantity;
-    @XmlElement(name = "preco")
+    @XmlElement(name = "valor_unitario")
     private BigDecimal price;
-    @XmlElement
+    @XmlElement(name = "desconto")
     private BigDecimal discount;
 
     public String getProduct() {
