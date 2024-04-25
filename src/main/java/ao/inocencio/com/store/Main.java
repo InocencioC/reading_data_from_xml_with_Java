@@ -27,7 +27,21 @@ public class Main {
                     TotalDiscount = TotalDiscount.add(i.getDiscount());
                 }
             }
-            System.out.println("TOTAL GROSS SALE " + Grosstotal);
+
+            for (Venda venda : vendas.getVenda()) {
+                System.out.println("ID da venda: "  + venda.getId());
+                System.out.println("Cliente: "  + venda.getClient());
+                System.out.println("Data da venda: "  + venda.getDate());
+
+                for (Item item : venda.getItens()) {
+                    System.out.println("\tItem: "  + item.getProduct());
+                    System.out.println("\tQuantidade: "  + item.getQuantity());
+                    System.out.println("\tPreço: "  + item.getPrice());
+                    System.out.println("\tDesconto: "  + item.getDiscount());
+                }
+            }
+
+                System.out.println("TOTAL GROSS SALE " + Grosstotal);
             System.out.println("TOTAL  DISCOUNT " + TotalDiscount);
             System.out.println("TOTAL NET SALE " + Grosstotal.subtract(TotalDiscount));
         } catch (JAXBException e) {
